@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: Data-Driven Decsision and Control
+email: per.mattsson@it.uu.se
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the AllanLab.
+  Website for Data-Driven Decision and Control Group at Uppsala University.
 baseurl: ""
 url: ""
 
