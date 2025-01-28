@@ -5,7 +5,7 @@ excerpt: "D3C at Uppsala University."
 sitemap: false
 permalink: /
 ---
-Research into the principles and methodology of data-driven decision processes.
+Research into the principles and methodology of data-driven decision processes
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
