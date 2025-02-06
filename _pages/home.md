@@ -38,9 +38,6 @@ Research into the principles and methodology of data-driven decision processes
 </div>
 
 
-Some text.
-
-
 <center>
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/UU.png" style="height: 110px;">
