@@ -1,4 +1,4 @@
-# Data-Driven Decision and Control group at Uppsala University.
+# Data-Driven Decisions and Control group at Uppsala University.
 
 This is the website of our research group at Uppsala University. 
 
