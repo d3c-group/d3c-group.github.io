@@ -1,0 +1,25 @@
+- title: "Population of systems"
+  key: "population"
+  hasimage: 1
+  width: 50%
+  image: dd.png
+  description: TODO
+  authors: Per Mattsson, Dave Zachariah and Yibo Wang
+  tag: 10001
+  highlight: 1
+  news1:
+  news2:
+  long: 0
+
+- title: "Something else"
+  key: "something"
+  hasimage: 1
+  width: 50%
+  image: dd.png
+  description: Something else.
+  authors: Dave Zachariah
+  tag: 10002
+  highlight: 1
+  news1:
+  news2:
+  long: 0
