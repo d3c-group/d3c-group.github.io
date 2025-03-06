@@ -1,3 +1,16 @@
+- title: "Policy evaluation under distribution shifts"
+  key: "population"
+  hasimage: 1
+  width: 50%
+  image: dd.png
+  description: TODO
+  authors: Dave Zachariah and Sofia Ek
+  tag: 10001
+  highlight: 1
+  news1:
+  news2:
+  long: 0
+
 - title: "Population of systems"
   key: "population"
   hasimage: 1
