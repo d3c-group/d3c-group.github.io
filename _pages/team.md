@@ -8,8 +8,6 @@ permalink: /team/
 
 # Group Members
 
-This site is under construction.
-
 ## Current
 {% for member in site.data.team_members %}
 
