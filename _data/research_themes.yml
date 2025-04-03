@@ -2,7 +2,7 @@
   key: "population"
   hasimage: 1
   width: 50%
-  image: dd.png
+  image: fig_policy_evaluation.png
   description: Evaluating and learning new decision policies from past data – whether observational or experimental – gives rise to several research challenges.
   authors: Dave Zachariah and Sofia Ek
   tag: 10001
