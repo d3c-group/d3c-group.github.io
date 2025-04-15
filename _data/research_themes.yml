@@ -1,7 +1,7 @@
 - title: "Decision policies under distribution shifts"
   key: "population"
   hasimage: 1
-  width: 50%
+  width: 80%
   image: fig_policy_evaluation.png
   description: Evaluating and learning new decision policies from past data – whether observational or experimental – gives rise to several research challenges.
   authors: Dave Zachariah and Sofia Ek
@@ -11,13 +11,13 @@
   news2:
   long: 0
 
-- title: "Population of systems"
-  key: "population"
+- title: "Data-driven control"
+  key: "datadriven"
   hasimage: 1
-  width: 50%
+  width: 60%
   image: dd.png
-  description: TODO
-  authors: Per Mattsson, Dave Zachariah and Yibo Wang
+  description: In this theme, the aim is to analyze and develop new methods for constructing controllers directly from data. We consider both indirect methods, where a model for the system to be controlled is first estimated, and direct methods. 
+  authors: Per Mattsson, Yibo Wang and Ruoqi Zhang
   tag: 10001
   highlight: 1
   news1:

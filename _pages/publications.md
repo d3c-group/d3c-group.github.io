@@ -15,14 +15,6 @@ permalink: /publications/
 
 ## List of Publications
 
-### Under Review
-<div class="publications">
-  
-{% bibliography -f d3c_publications -q @*[published={{0}}]* %}
-
-</div>
-
-### Published
 <div class="publications">
 
 {%- for y in page.years %}
