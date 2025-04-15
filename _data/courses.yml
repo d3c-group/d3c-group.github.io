@@ -1,0 +1,12 @@
+- title: "Great Ideas in Learning and Control, 5 credits"
+  key: "greatideas"
+  highlight: 1
+  description: This 5 credit course delves into the foundational concepts withing statistical learning and control theory, exploring their profund impact on engineering, science and society throughout the 20th century.
+  teachers: Dave Zachariah and Per Mattsson
+  next: TBD
+  haslink: 0
+  link: http://www.uu.se
+  hasimage: 1
+  width: 80%
+  image: greatideas.jpeg
+  long: 0
