@@ -1,5 +1,5 @@
 ---
-title: "D3C - Statistical Learning and Inference for Data Science"
+title: "D3C - Statistical Learning for Data Science"
 layout: default
 excerpt: "D3C -- Courses"
 sitemap: false
