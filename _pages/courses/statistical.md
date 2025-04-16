@@ -8,11 +8,13 @@ permalink: /courses/statistical/
 
 # Statistical Learning and Inference for Data Science
 
+The process of learning models and inferring quantities from data lies at the heart of several fields of study, including machine learning, signal
+processing and statistics. Such fields aim to aid or automate decision making using data. The goal of this PhD-level course is to provide a solid
+statistical foundation for the process of turning data into decisions.
 
 ## Lectures
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| Lec. | Date | Room | Topics | Suppl. reading | 
+|------|------|------|--------|----------------|
+| A    |      |      |        |                |  
+
