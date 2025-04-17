@@ -22,7 +22,7 @@ machine learning and statistics textbooks
 | Fundamental concepts |      |      |        |                |  
 | Inference and model learning |      |      |        |                |  
 | Validation, regularization, belief approach |      |      |        |                |  
-| Recursive methods, adaptation, time series,  |      |      |        |                |  
+| Recursive methods, adaptation, time series data |      |      |        |                |  
 | Policies and causal structures |      |      |        |                |  
 | Predictive policies |      |      |        |                |  
 | Interventional policies, summary |      |      |        |                |  
