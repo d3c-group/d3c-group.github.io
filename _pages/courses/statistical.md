@@ -12,7 +12,10 @@ The process of learning models and inferring quantities from data lies at the he
 processing, control theory, and statistics. Such fields aim to aid or automate decision making using data. The goal of this PhD-level course is to provide a solid
 statistical foundation for the process of turning data into decisions.
 
-## Lectures
+We will tackle certain important issues in parameter inference and policy evaluation that are not adequately addressed in conventional
+machine learning and statistics textbooks
+
+## Course schedule
 
 | Lec. | Date | Room | Topics | Suppl. reading | 
 |------|------|------|--------|----------------|
@@ -25,4 +28,15 @@ statistical foundation for the process of turning data into decisions.
 | Interventional policies, summary |      |      |        |                |  
 
 
-Supplementary readings from:
+Supplementary readings:
+
+
+## Examination
+* Weekly homeworks (6hp)
+* Voluntary project corresponding to a three-page research paper (3hp)
+
+## Prerequisites
+Undergraduate courses in linear algebra and probability theory.
+
+## Registration
+E-mail [Dave Zachariah](https://www.uu.se/en/contact-and-organisation/staff?query=N13-1398). 
