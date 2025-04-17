@@ -32,7 +32,7 @@ Supplementary readings:
 
 
 ### Examination
-* Weekly homeworks (6hp)
+* Weekly homeworks (7hp)
 * Voluntary project corresponding to a three-page research paper (3hp)
 
 ### Prerequisites
