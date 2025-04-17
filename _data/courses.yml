@@ -1,4 +1,4 @@
-- title: "Statistical Learning for Data Science, X credits"
+- title: "Statistical Learning for Data Science"
   key: "learning"
   highlight: 1
   description: TODO.
@@ -11,7 +11,7 @@
   image: fig_statisticallearning.jpg
   long: 0
 
-- title: "Great Ideas in Learning and Control, 5 credits"
+- title: "Great Ideas in Learning and Control"
   key: "greatideas"
   highlight: 1
   description: This course delves into foundational concepts in statistical learning and control theory, exploring their profund impact on engineering, science and society throughout the 20th century.
