@@ -15,7 +15,7 @@ statistical foundation for the process of turning data into decisions.
 We will tackle certain important issues in parameter inference and policy evaluation that are not adequately addressed in conventional
 machine learning and statistics textbooks
 
-## Course schedule
+### Course schedule
 
 | Lec. | Date | Room | Topics | Suppl. reading | 
 |------|------|------|--------|----------------|
@@ -31,12 +31,12 @@ machine learning and statistics textbooks
 Supplementary readings:
 
 
-## Examination
+### Examination
 * Weekly homeworks (6hp)
 * Voluntary project corresponding to a three-page research paper (3hp)
 
-## Prerequisites
+### Prerequisites
 Undergraduate courses in linear algebra and probability theory.
 
-## Registration
+### Registration
 E-mail [Dave Zachariah](https://www.uu.se/en/contact-and-organisation/staff?query=N13-1398). 
