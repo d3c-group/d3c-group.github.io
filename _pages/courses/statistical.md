@@ -17,5 +17,12 @@ statistical foundation for the process of turning data into decisions.
 | Lec. | Date | Room | Topics | Suppl. reading | 
 |------|------|------|--------|----------------|
 | Fundamental concepts |      |      |        |                |  
+| Inference and model learning |      |      |        |                |  
+| Validation, regularization, belief approach |      |      |        |                |  
+| Recursive methods, adaptation, time series,  |      |      |        |                |  
+| Policies and causal structures |      |      |        |                |  
+| Predictive policies |      |      |        |                |  
+| Interventional policies, summary |      |      |        |                |  
+
 
 Supplementary readings from:
