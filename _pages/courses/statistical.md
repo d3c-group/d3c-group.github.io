@@ -8,7 +8,7 @@ permalink: /courses/statistical/
 
 # Statistical Learning for Data Science
 
-![title](images/fig_statisticallearning.png)
+![title](images/courses/fig_statisticallearning.jpg)
 
 The process of learning models and inferring quantities from data lies at the heart of several fields of study, including machine learning, signal
 processing, control theory, and statistics. Such fields aim to either aid or automate decision making using data. The goal of this PhD-level course is to provide a solid
