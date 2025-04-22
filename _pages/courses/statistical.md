@@ -19,7 +19,7 @@ machine learning and statistics textbooks.
 
 ### Course schedule
 
-| Lec. | Date | Room | Topics | Suppl. reading | 
+| Lecture | Date | Room | Topics | Suppl. reading | 
 |------|------|------|--------|----------------|
 | Fundamental concepts | Sept 8 |      |        |                |  
 | Inference and model learning |      |      |        |                |  
