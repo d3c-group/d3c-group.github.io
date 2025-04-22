@@ -8,27 +8,26 @@ permalink: /courses/statistical/
 
 # Statistical Learning for Data Science
 
+![title](images/fig_statisticallearning.png)
+
 The process of learning models and inferring quantities from data lies at the heart of several fields of study, including machine learning, signal
-processing, control theory, and statistics. Such fields aim to aid or automate decision making using data. The goal of this PhD-level course is to provide a solid
-statistical foundation for the process of turning data into decisions.
+processing, control theory, and statistics. Such fields aim to either aid or automate decision making using data. The goal of this PhD-level course is to provide a solid
+statistical foundation for researchers in related fields.
 
 We will tackle certain important issues in parameter inference and policy evaluation that are not adequately addressed in conventional
-machine learning and statistics textbooks
+machine learning and statistics textbooks.
 
 ### Course schedule
 
 | Lec. | Date | Room | Topics | Suppl. reading | 
 |------|------|------|--------|----------------|
-| Fundamental concepts |      |      |        |                |  
+| Fundamental concepts | Sept 8 |      |        |                |  
 | Inference and model learning |      |      |        |                |  
 | Validation, regularization, belief approach |      |      |        |                |  
 | Recursive methods, adaptation, time series data |      |      |        |                |  
 | Policies and causal structures |      |      |        |                |  
 | Predictive policies |      |      |        |                |  
 | Interventional policies, summary |      |      |        |                |  
-
-
-Supplementary readings:
 
 
 ### Examination
