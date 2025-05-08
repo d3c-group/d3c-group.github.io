@@ -32,7 +32,7 @@ machine learning and statistics textbooks.
 
 ### Examination
 * Weekly homeworks (7hp)
-* Voluntary project corresponding to a three-page research paper (3hp)
+* (Optional project corresponding to a three-page research paper (+3hp))
 
 ### Prerequisites
 Undergraduate courses in linear algebra and probability theory.
