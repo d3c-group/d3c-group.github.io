@@ -27,7 +27,7 @@ machine learning and statistics textbooks.
 | Recursive methods, adaptation, time series data |  Sept 30 @ 10 | Ång 100155 |        |               
 | Policies and causal structures |  Oct 7 @ 10 | Ång 100155 |        |                
 | Predictive policies | Oct 14 @ 10 | Ång 100155 |        |                 
-| Interventional policies, summary | Oct 21 @ 10 | Ång 100155 |        |                
+| Interventional policies, summary | Oct 21 @ 10 | Ång 100190 |        |                
 
 
 ### Examination
