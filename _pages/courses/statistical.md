@@ -19,15 +19,15 @@ machine learning and statistics textbooks.
 
 ### Course schedule
 
-| Lecture | Date | Room | Topics | Suppl. reading | 
+| Lecture | Date | Room | Suppl. reading | 
 |------|------|------|--------|----------------|
-| Fundamental concepts | Sept 8 |      |        |                |  
-| Inference and model learning |      |      |        |                |  
-| Validation, regularization, Bayesian approach |      |      |        |                |  
-| Recursive methods, adaptation, time series data |      |      |        |                |  
-| Policies and causal structures |      |      |        |                |  
-| Predictive policies |      |      |        |                |  
-| Interventional policies, summary |      |      |        |                |  
+| Fundamental concepts | Sept 9 @ 10 | Ång 100155 |        |                
+| Inference and model learning |  Sept 16 @ 10 | Ång 100155 |        |                
+| Validation, regularization, Bayesian approach |  Sept 23 @ 10 | Ång 100155 |        |                 
+| Recursive methods, adaptation, time series data |  Sept 30 @ 10 | Ång 100155 |        |               
+| Policies and causal structures |  Oct 7 @ 10 | Ång 100155 |        |                
+| Predictive policies | Oct 14 @ 10 | Ång 100155 |        |                 
+| Interventional policies, summary | Oct 21 @ 10 | Ång 100155 |        |                
 
 
 ### Examination
