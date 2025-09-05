@@ -30,11 +30,11 @@ machine learning and statistics textbooks.
 | Interventional policies, summary | Oct 21 @ 10 | Ång 100190 |        |                
 
 References:
-* [F] T. S. Ferguson, **Mathematical Statistics**, Academic Press, 1967.
-* [W] L. Wasserman, **All of Statistics**, Springer 2004.
-* [P] J. Peters, et al, **Elements of Causal Inference**, MIT Press 2017.
-* [vdV] A.W. van der Vaart, **Asymptotic Statistics**, CUP 1998.
-* [L] L. Ljung, **System Identification** (2nd ed.), Pearson 1999.
+* [F] T. S. Ferguson, *Mathematical Statistics*, Academic Press, 1967.
+* [W] L. Wasserman, *All of Statistics*, Springer 2004.
+* [P] J. Peters, et al, *Elements of Causal Inference*, MIT Press 2017.
+* [vdV] A.W. van der Vaart, *Asymptotic Statistics*, CUP 1998.
+* [L] L. Ljung, *System Identification* (2nd ed.), Pearson 1999.
 
 ### Examination
 * Weekly homeworks (7hp)
