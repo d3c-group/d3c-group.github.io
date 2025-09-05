@@ -21,7 +21,7 @@ machine learning and statistics textbooks.
 
 | Lecture | Date | Room | Suppl. reading | 
 |------|------|------|--------|----------------|
-| Fundamental concepts | Sept 9 @ 10 | Ång 100155 |        |                
+| Fundamental concepts | Sept 9 @ 10 | Ång 100155 | F: 1.1-3, 1.6. W: 1-5. vdV: 5. |                
 | Inference and model learning |  Sept 16 @ 10 | Ång 100155 |        |                
 | Validation, regularization, Bayesian approach |  Sept 23 @ 10 | Ång 100155 |        |                 
 | Recursive methods, adaptation, time series data |  Sept 30 @ 10 | Ång 100155 |        |               
@@ -29,6 +29,12 @@ machine learning and statistics textbooks.
 | Predictive policies | Oct 14 @ 10 | Ång 100155 |        |                 
 | Interventional policies, summary | Oct 21 @ 10 | Ång 100190 |        |                
 
+References:
+* [F] T. S. Ferguson, **Mathematical Statistics**, Academic Press, 1967.
+* [W] L. Wasserman, **All of Statistics**, Springer 2004.
+* [P] J. Peters, et al, **Elements of Causal Inference**, MIT Press 2017.
+* [vdV] A.W. van der Vaart, **Asymptotic Statistics**, CUP 1998.
+* [L] L. Ljung, **System Identification** (2nd ed.), Pearson 1999.
 
 ### Examination
 * Weekly homeworks (7hp)
