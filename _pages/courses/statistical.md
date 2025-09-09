@@ -29,6 +29,8 @@ machine learning and statistics textbooks.
 | Predictive policies | Oct 14 @ 10 | Ång 100155 |        |                 
 | Interventional policies, summary | Oct 21 @ 10 | Ång 100190 |        |                
 
+[Uppsala University map](https://use.mazemap.com/#v=1&campusid=49)
+
 References:
 * [F] T. S. Ferguson, *Mathematical Statistics*, Academic Press, 1967.
 * [W] L. Wasserman, *All of Statistics*, Springer 2004.
@@ -42,6 +44,9 @@ References:
 
 ### Prerequisites
 Undergraduate courses in linear algebra and probability theory.
+
+### Course material
+Available [here](https://www.genome.gov/](https://www.dropbox.com/scl/fo/q7iwphqctutb1psj79po9/AOT6WILzo0UnfDkjfby8Qes?rlkey=fxj75srxkj2m99adv0obcdqlu&dl=0)
 
 ### Registration
 E-mail [Dave Zachariah](https://www.uu.se/en/contact-and-organisation/staff?query=N13-1398). 
