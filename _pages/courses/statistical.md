@@ -46,7 +46,7 @@ References:
 Undergraduate courses in linear algebra and probability theory.
 
 ### Course material
-Available [here](https://www.genome.gov/](https://www.dropbox.com/scl/fo/q7iwphqctutb1psj79po9/AOT6WILzo0UnfDkjfby8Qes?rlkey=fxj75srxkj2m99adv0obcdqlu&dl=0)
+Available [here](https://www.dropbox.com/scl/fo/q7iwphqctutb1psj79po9/AOT6WILzo0UnfDkjfby8Qes?rlkey=fxj75srxkj2m99adv0obcdqlu&dl=0)
 
 ### Registration
 E-mail [Dave Zachariah](https://www.uu.se/en/contact-and-organisation/staff?query=N13-1398). 
