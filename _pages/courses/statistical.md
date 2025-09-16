@@ -22,8 +22,8 @@ machine learning and statistics textbooks.
 | Lecture | Date | Room | Suppl. reading | 
 |------|------|------|--------|----------------|
 | Fundamental concepts | Sept 9 @ 10 | Ång 100155 | F: 1.1-3, 1.6. W: 1-5. vdV: 5. |                
-| Inference and model learning |  Sept 16 @ 10 | Ång 100155 |        |                
-| Validation, regularization, Bayesian approach |  Sept 23 @ 10 | Ång 100155 |        |                 
+| Inference and model learning |  Sept 16 @ 10 | Ång 100155 | F: 5.8 |                
+| Validation, regularization, Bayesian approach |  Sept 23 @ 10 | Ång 100155 | F: 1.8 |                 
 | Recursive methods, adaptation, time series data |  Sept 30 @ 10 | Ång 100155 |        |               
 | Policies and causal structures |  Oct 7 @ 10 | Ång 100155 |        |                
 | Predictive policies | Oct 14 @ 10 | Ång 100155 |        |                 
