@@ -24,10 +24,10 @@ machine learning and statistics textbooks.
 | Fundamental concepts | Sept 9 @ 10 | Ång 100155 | F: 1.1-3, 1.6. W: 1-5. vdV: 5. |                
 | Inference and model learning |  Sept 16 @ 10 | Ång 100155 | F: 5.8 |                
 | Validation, regularization, Bayesian approach |  Sept 23 @ 10 | Ång 100155 | F: 1.8 |                 
-| Recursive methods, adaptation, time series data |  Sept 30 @ 10 | Ång 100155 |        |               
-| Policies and causal structures |  Oct 7 @ 10 | Ång 100155 |        |                
-| Predictive policies | Oct 14 @ 10 | Ång 100155 |        |                 
-| Interventional policies, summary | Oct 21 @ 10 | Ång 100190 |        |                
+| Recursive methods, adaptation, time series data |  Sept 30 @ 10 | Ång 100155 |  L: 3, 4, 7, 8  |               
+| Policies and causal structures |  Oct 7 @ 10 | Ång 100155 |  P: 6, W: 17  |                
+| Predictive policies | Oct 14 @ 10 | Ång 100155 | W: 22, F: 5.1 |                 
+| Interventional policies, summary | Oct 21 @ 10 | Ång 100190 |  P: 6  |                
 
 [Uppsala University map](https://use.mazemap.com/#v=1&campusid=49)
 
