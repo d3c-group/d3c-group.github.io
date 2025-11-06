@@ -14,8 +14,6 @@ Many of the great ideas that shaped today’s fields of control theory and machi
 
 **Course start:** Mid of January 2026.
 
-**Registration:** Fill 
-
 ### Tentative list of lectures
 
 | Lecture | Date | Room |  
