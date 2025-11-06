@@ -19,8 +19,8 @@ Many of the great ideas that shaped today’s fields of control theory and machi
 | Lecture | Date | Room |  
 |------|------|------|--------|
 |Principles of information theory | TBD | TBD |
-|Principles of dynamical system| TBD | TBD |
-|Principles of extermal solutions| TBD | TBD |
+|Principles of dynamical systems| TBD | TBD |
+|Principles of extremal solutions| TBD | TBD |
 |Principles of feedback| TBD | TBD |
 |Principles of statistical learning| TBD | TBD |
 |Principles of dynamic programming| TBD | TBD |
