@@ -10,7 +10,7 @@ permalink: /courses/greatideas/
 
 ![title](../../images/courses/greatideas.jpeg){: width="500"}
 
-Many of the great ideas that shaped today’s fields of control theory and machine learning were developed between in the 21th century. These ideas established the theoretical and conceptual foundations for how systems can learn, adapt, and make decisions. In this course, we will explore these ideas and their influence on modern learning and control.
+Many of the great ideas that shaped today’s fields of control theory and machine learning were developed between in the 20th century. These ideas established the theoretical and conceptual foundations for how systems can learn, adapt, and make decisions. In this course, we will explore these ideas and their influence on modern learning and control.
 
 **Course start:** Mid of January 2026.
 
