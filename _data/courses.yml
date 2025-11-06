@@ -16,10 +16,10 @@
   highlight: 1
   description: This course delves into foundational concepts in statistical learning and control theory, exploring their profund impact on engineering, science and society throughout the 20th century.
   teachers: Dave Zachariah and Per Mattsson
-  next: Jan 2025
+  next: Jan 2026
   haslink: 1
   link: http://d3c-group.github.io/courses/greatideas/
   hasimage: 1
   width: 80%
-  image: greatideas.jpeg
+  image: fig_greatideas.jpeg
   long: 0
