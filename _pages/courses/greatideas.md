@@ -18,12 +18,12 @@ Many of the great ideas that shaped today’s fields of control theory and machi
 
 | Lecture | Date | Room |  
 |------|------|------|--------|
-|Principles of information theory | TBD | TBD |
-|Principles of dynamical systems| TBD | TBD |
-|Principles of extremal solutions| TBD | TBD |
-|Principles of feedback| TBD | TBD |
-|Principles of statistical learning| TBD | TBD |
-|Principles of dynamic programming| TBD | TBD |
+|L1 Principles of information theory | TBD | TBD |
+|L2 Principles of dynamical systems| TBD | TBD |
+|L3 Principles of extremal solutions| TBD | TBD |
+|L4 Principles of feedback| TBD | TBD |
+|L5 Principles of statistical learning| TBD | TBD |
+|L6 Principles of dynamic programming| TBD | TBD |
 
 
 ### Examination
