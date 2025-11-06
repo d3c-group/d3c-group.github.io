@@ -1,5 +1,5 @@
 ---
-title: "D3C - Great Idead in Learning and Control"
+title: "D3C - Great Ideas in Learning and Control"
 layout: default
 excerpt: "D3C -- Courses"
 sitemap: false
