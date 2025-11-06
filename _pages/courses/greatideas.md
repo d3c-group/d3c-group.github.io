@@ -8,7 +8,7 @@ permalink: /courses/greatideas/
 
 # Great Ideas in Learning and Control
 
-![title](../../images/courses/fig_greatideas.jpeg){: width="500"}
+![title](../../images/courses/fig_greatideas_small.png){: width="500"}
 
 Many of the great ideas that shaped today’s fields of control theory and machine learning were developed in the 20th century. These ideas established the theoretical and conceptual foundations for how systems can learn, adapt, and make decisions. In this course, we will explore these ideas and their influence on modern learning and control.
 
