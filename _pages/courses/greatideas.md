@@ -14,7 +14,7 @@ Many of the great ideas that shaped today’s fields of machine learning and con
 
 **Course start:** Mid of January 2026.
 
-### Tentative list of lectures
+### Lectures
 
 | Lecture | Date | Room |  
 |------|------|------|--------|
