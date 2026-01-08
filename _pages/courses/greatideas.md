@@ -31,6 +31,6 @@ Many of the great ideas that shaped today’s fields of machine learning and con
 * A collaborative project.
 
 ### Questions and Registration
-If you have questions you can e-mail [Dave Zachariah](https://www.uu.se/en/contact-and-organisation/staff?query=N13-1398) or [Per Mattsson](https://www.uu.se/en/contact-and-organisation/staff?query=N10-1806). 
+If you want to register for the course [fill in this form](https://doit.medfarm.uu.se/bin/kurt3/kurt/8895185).
 
-PhD students that finish the course can get 5 credits, but others that are interested can also follow along the course. If you want to register for the course (or just get information when the course starts) [fill in this form](https://doit.medfarm.uu.se/bin/kurt3/kurt/8895185).
+PhD students that finish the course receive 5 credits, but anyone is welcome to attend. If you have questions you can e-mail [Dave Zachariah](https://www.uu.se/en/contact-and-organisation/staff?query=N13-1398) or [Per Mattsson](https://www.uu.se/en/contact-and-organisation/staff?query=N10-1806). 
