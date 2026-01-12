@@ -12,8 +12,6 @@ permalink: /courses/greatideas/
 
 Many of the great ideas that shaped today’s fields of machine learning and control theory were developed in the 20th century. These ideas established the theoretical and conceptual foundations for how systems can learn, adapt, and make decisions. They had a profound impact on engineering, science and society throughout the past century. In this course, we will explore these some foundational concepts and their influence on modern learning and control.
 
-**Course start:** Mid of January 2026.
-
 ### Lectures
 
 | Lecture | Date | Room |  
