@@ -18,7 +18,7 @@ Many of the great ideas that shaped today’s fields of machine learning and con
 |------|------|------|--------|
 |L1 Principles of information theory | 17th Feb @ 10.15 | TBD |
 |L2 Principles of dynamical systems| 24th Feb @ 10.15 | TBD |
-|L3 Principles of extremal solutions| 3rd Mar @ 10.15  | TBD |
+|L3 Principles of extremal problems| 3rd Mar @ 10.15  | TBD |
 |L4 Principles of feedback| 10th Mar @ 10.15  | TBD |
 |L5 Principles of statistical learning| 17th Mar @ 10.15  | TBD |
 |L6 Principles of dynamic programming| 24th Mar @ 10.15  | TBD |
