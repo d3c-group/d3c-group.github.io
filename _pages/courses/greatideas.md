@@ -16,12 +16,12 @@ Many of the great ideas that shaped today’s fields of machine learning and con
 
 | Lecture | Date | Room |  
 |------|------|------|--------|
-|L1 Principles of information theory | 17th Feb @ 10.15 | TBD |
-|L2 Principles of dynamical systems| 24th Feb @ 10.15 | TBD |
-|L3 Principles of extremal problems| 3rd Mar @ 10.15  | TBD |
-|L4 Principles of feedback| 10th Mar @ 10.15  | TBD |
-|L5 Principles of statistical learning| 17th Mar @ 10.15  | TBD |
-|L6 Principles of dynamic programming| 24th Mar @ 10.15  | TBD |
+|L1 Principles of information theory | 17th Feb @ 10.15 | 101127, Ångström |
+|L2 Principles of dynamical systems| 24th Feb @ 10.15 | 101258, Ångström |
+|L3 Principles of extremal problems| 3rd Mar @ 10.15  | 101125, Ångström	 |
+|L4 Principles of feedback| 10th Mar @ 10.15  | 101125, Ångström |
+|L5 Principles of statistical learning| 17th Mar @ 10.15  | 101125, Ångström	 |
+|L6 Principles of dynamic programming| 24th Mar @ 10.15  | 101125, Ångström |
 
 
 ### Examination
