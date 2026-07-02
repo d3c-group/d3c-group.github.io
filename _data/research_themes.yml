@@ -27,7 +27,7 @@
 - title: "Adaptive design for dynamical systems"
   key: "design"
   hasimage: 1
-  width: 80%
+  width: 60%
   image: fig_tracking.png
   description: How should inputs to dynamical systems be design to yield maximal information of interest?
   authors: Dave Zachariah and Jingwei Hu
