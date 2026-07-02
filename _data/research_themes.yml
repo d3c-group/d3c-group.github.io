@@ -3,7 +3,7 @@
   hasimage: 1
   width: 80%
   image: fig_policy_evaluation.png
-  description: How can one evaluate and even learn new decision policies using data from past decision policies?
+  description: How can one evaluate and even learn new decision policies using data from past decisions?
   authors: Dave Zachariah and Sofia Ek
   tag: 10002
   highlight: 1
